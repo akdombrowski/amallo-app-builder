@@ -52,8 +52,6 @@ vendor/
 
 # next.js
 /.next/
-/out/
-
 # production
 /build
 
@@ -160,7 +158,6 @@ web_modules/
 
 # Next.js build output
 .next
-out
 
 # Nuxt.js build / generate output
 .nuxt
@@ -264,4 +261,3 @@ sketch
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,linux,git,jekyll,nextjs,node,react,yarn
 
 # Custom rules (everything added below won't be overriden by 'Generate .gitignore File' if you use 'Update' option)
-
