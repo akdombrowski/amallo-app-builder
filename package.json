@@ -12,7 +12,7 @@
     "@mui/icons-material": "^6.4.8",
     "@mui/material": "^6.4.8",
     "@types/next": "^9.0.0",
-    "@types/node": "^22.13.11",
+    "@types/node": "^22.17.2",
     "@types/react": "^19.0.12",
     "@types/react-dom": "^19.0.4",
     "next": "^15.2.3",
